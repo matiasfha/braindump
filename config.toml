@@ -1,0 +1,42 @@
+baseURL = "https://brain.matiashernandez.dev/"
+languageCode = "es-cl"
+title = "My Brain - Notes"
+theme = "cortex"
+enableRobotsTXT = true
+canonifyURLs = true
+footnoteReturnLinkContents = "[^ back]"
+[author]
+name = "Matias Hernández"
+homepage = "https://matiashernandez.dev"
+[params]
+email = "hola@matiashernandez.dev"
+footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo. Thanks to Jethro Kuan for the <a href=\"https://github.com/jethrokuan/cortex\">Cortex theme</a>"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
+
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "github"
+    tabWidth = 4

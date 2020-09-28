@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on My Brain - Notes</title>
+    <link>https://brain.matiashernandez.dev/</link>
+    <description>Recent content in Index on My Brain - Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-cl</language>
+    <lastBuildDate>Mon, 28 Sep 2020 21:44:03 +0800</lastBuildDate><atom:link href="https://brain.matiashernandez.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clojure</title>
+      <link>https://brain.matiashernandez.dev/notes/20200922032244-clojure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200922032244-clojure/</guid>
+      <description>Nacido el 2007, actualmente mantenido por Cognitect con 126 contributors formales Un lenguaje robusto, practico y rápido con caracterísiticas para forma una herramienta simple, coherente y poderosa. De propósito general, Interoperabilidad con Java Es un dialecto de Lisp y comparte la filosofía codigo-como-datos Esto se conoce como homoiconocidad. El propio programa ecrito puede ser manipulado como data usando el propio lenguaje. Funcional Estructuras de datos inmutables Polimorfismo Soporta Macros Provee la oporatuniad de extender el lenguaje Confiable and Battle tested: Utilizado por Citibank, Simple, Amazon, Netflix, etc.</description>
+    </item>
+    
+    <item>
+      <title>Elixir</title>
+      <link>https://brain.matiashernandez.dev/notes/20200920163655-elixir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200920163655-elixir/</guid>
+      <description>Nacido el 2011 por José Valim, parte del equipo Core de RoR Un lenguaje dynámico y funcional para construir aplicaciones escalables yu mantenibles Toma el poder de la VM Erlang conocida por ejecutar sistemas distribuidos de baja latencia Se utiliza para desarrolo web, software embebido, procesamiento multimedia, ena Enfocado en Escalabilidad, tolerancia a fallo y concurrencia Completamente funcional 100% Immutable Incluye extensibilidad mendiante el uso de un DSL REPL y manejador de paquetes Compatible con Erlang Tiene una comunidad activa y una gran conferencia llama ElixirConf en total hay 13 grandes eventos a nivel mundial.</description>
+    </item>
+    
+    <item>
+      <title>Elm</title>
+      <link>https://brain.matiashernandez.dev/notes/20200920112829-elm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200920112829-elm/</guid>
+      <description>Un lenguaje disfrutante para crear aplicaciones web confiables Puede ser considerado una alternativa a Javascript Se utiliza para construir aplicaciones web Disfrutable: Elm se enfoca en DX y ergonómicos: Gran compilador y mensajes de error Enfocado en un compilador rápdio, friendly Es pequeño y simple JS interop packages, editor plugin, mateiral de aprendizaje Comparado con JS frameworks lo que no es correcto, Elm es un lenguaje, con los frameworks escribes JS/TS Pero Elm tiene todo incluido, no se requiere un framework, Elm es el framework en si mismo.</description>
+    </item>
+    
+    <item>
+      <title>How JS loop works</title>
+      <link>https://brain.matiashernandez.dev/notes/20200925144726-how_js_loop_works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200925144726-how_js_loop_works/</guid>
+      <description> source:: https://www.youtube.com/watch?v=cCOL7MC4Pl0&amp;amp;ab%5Fchannel=JSConf  Main Thread The DOM happens, render happens Deterministic order Long tasks blocks all the thread &amp;gt; We don&amp;rsquo;t want to write code that is like a sneez - Jake Archibald The Event Loop setTimeout definition is &amp;ldquo;Run the steps in parallel&amp;rdquo; and wiat ms and invoke callback </description>
+    </item>
+    
+    <item>
+      <title>How to take smart notes</title>
+      <link>https://brain.matiashernandez.dev/notes/20200925021631-how_to_take_smart_notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200925021631-how_to_take_smart_notes/</guid>
+      <description>tags: Writing  Introduction every intellectual endeavour starts with a note. improving the organisation of all writing makes a difference The queality of a paper and the ease with which it is written depends more than anything on what you have done in writing ebfore you even made a decision on the topic Routines require simple, repeatable tasks that can become automatic and fit together seamlessly writing is not a linear process Eveen the best tools won&amp;rsquo;t make much of a difference if they are used in isolation.</description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://brain.matiashernandez.dev/notes/20200927000418-javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200927000418-javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programing Languages</title>
+      <link>https://brain.matiashernandez.dev/notes/20200927000334-programing_languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200927000334-programing_languages/</guid>
+      <description> Elixir Javascript Typescript Clojure Elm Rust  </description>
+    </item>
+    
+    <item>
+      <title>Progressive Summarization</title>
+      <link>https://brain.matiashernandez.dev/notes/20200921094409-progressive_summarization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200921094409-progressive_summarization/</guid>
+      <description> tags:: Writing  Is a way to makes notes progressively useful every time you come back to a note you do a review steps and highlight pieces of it </description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://brain.matiashernandez.dev/notes/20200920112816-rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200920112816-rust/</guid>
+      <description>Un lenguaje para empoderar a todos a construir software confiable y eficiente. Es una alternativa a C++ Se puede usar para casi todo, inclyendo web apps con wasm Un objetivo es ser eficiente y tener buen runtime performance Compila como binario, no tiene un GC es como C++ Tiene interoperación con C/C++ packages, plugin editor, material de aprendizaje Comparado con Go: simple, quick to learn (por diseño), compilador muy rápido Rust es complejo, mucho que aprender, el compilador no es el más rápido ni tampoco su objetivo RustConf 2018 Keynote youtu.</description>
+    </item>
+    
+    <item>
+      <title>Time Management</title>
+      <link>https://brain.matiashernandez.dev/notes/2020-09-27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/2020-09-27/</guid>
+      <description>Que es? Este concepto se refiere a las decisiones que realizas durante el dia a día .
+ Que necesitas hacer Cuando necesitas hacerlo Cuando necesitas terminar Que tareas necesitas atacar para obtener tus objetivos  Poder realizar tareas de alto valor, de alta prioridad y conseguirlo antes de cierto deadline y al mismo tiempo vivir una vida saludable tanto mental como fisicamente, puedes decir que manejaste tu tiempo de gran manera, pero?</description>
+    </item>
+    
+    <item>
+      <title>Tipos estaticos vs tipos dinamicos</title>
+      <link>https://brain.matiashernandez.dev/notes/20200927001713-tipos_estaticos_vs_tipos_dinamicos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200927001713-tipos_estaticos_vs_tipos_dinamicos/</guid>
+      <description> Tipos estático requieren que el tipo de la variable este disponible en tiempo de compilación, declarada o inferida Dinámicos el tipo de la variable es conocido solo en tiempo de ejecución como Python Video: https://www.youtube.com/watch?v=C5fr0LZLMAs  </description>
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>https://brain.matiashernandez.dev/notes/20200926235811-typescript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200926235811-typescript/</guid>
+      <description>tags:: Programing Languages sources:: https://serokell.io/blog/why-typescript  Typed Javascript at any scale Extend Javascript by adding types  Is a super set of Javascript that has optional typing and compiles to plain Javascript  Es javascript con algunas funciones extras incluyendo tipos estáticos de forma opcional Esto permite
+  evitar errores tipo &amp;ldquo;undefined is not a function&amp;rdquo;
+  Tener tipos ayuda a los refactorings
+  Documentación que en grandes proyectos ayuda mucho a orientarse a study shows that 15% of all JavaScript bugs can be detected by TypeScript.</description>
+    </item>
+    
+    <item>
+      <title>Video: Clojure Made Simple</title>
+      <link>https://brain.matiashernandez.dev/notes/20200928181349-clojure_made_simple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200928181349-clojure_made_simple/</guid>
+      <description> tag:: Clojure source:: https://youtu.be/VSdnJDO-xdg author:: Rich Hickey   &amp;ldquo;A lot of the best programmer and the most productive programmers I know are writing everything in Clojure and swearing by it, and then just producing ridiculously sophisticated things in a very short time. And the programmer productiviy matters.&amp;rdquo; Adrian Cockroft http://thenewstack.io/the-new-stack-makers-andrian-cockcroft-on-sun-netflix-clojure-go-docker-and-more
+ Programming is an Economic Activity </description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://brain.matiashernandez.dev/notes/20200928121101-writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brain.matiashernandez.dev/notes/20200928121101-writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
